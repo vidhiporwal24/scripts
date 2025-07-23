@@ -1,0 +1,40 @@
+# API Keys and Sensitive Data
+*.key
+config.py
+secrets.json
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output Files (Optional - you might want to include sample results)
+*.csv
+*.xlsx
+# Uncomment if you want to include sample results:
+# !sample_*.csv
+# !demo_*.xlsx
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp 
